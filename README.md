@@ -65,7 +65,7 @@ If the application doesn't run with `npm start`, you can try the following steps
 3. Close the terminal and run the following command again:
 
    ```bash
-   npm run android
+   npm run start
    ```
 
 This should resolve the error and allow your application to run successfully.
